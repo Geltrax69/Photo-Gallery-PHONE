@@ -14,6 +14,15 @@
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript)
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshot-ui.png" alt="Photo-Gallery-PHONE UI" width="100%" />
+  <br />
+  <em>Mobile photo gallery — 50 photos.</em>
+</p>
+
+
 ## What it is
 
 A static photo gallery website optimised for phones: 50 photos displayed in a responsive card grid, each with a download button, plus Previous/Next pagination that cycles through the photos six at a time. Pure HTML/CSS/vanilla JS — no build step, no dependencies. Open `index.html` and it works.
